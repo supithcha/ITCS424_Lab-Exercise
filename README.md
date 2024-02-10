@@ -17,6 +17,7 @@ The output
 
 ### Lab 5 (Date: 7/02/2024)
 - Homework: two page from project proposal <br>
+- Link: https://github.com/supithcha/Happy-Tails/tree/main/w5%20route <br>
 <img width="428" alt="Screenshot 2567-02-10 at 14 04 46" src="https://github.com/supithcha/ITCS424_Lab-Exercise/assets/106173639/501bd8be-5635-44f8-bf98-79a732923c8c"> <br>
 <img width="428" alt="Screenshot 2567-02-10 at 14 05 23" src="https://github.com/supithcha/ITCS424_Lab-Exercise/assets/106173639/557c231c-fe13-4758-a51e-d9770a343e32"> <br>
 <img width="428" alt="Screenshot 2567-02-10 at 14 05 46" src="https://github.com/supithcha/ITCS424_Lab-Exercise/assets/106173639/2203ee20-c659-46eb-a329-8d4aa49cea5c"> <br>
