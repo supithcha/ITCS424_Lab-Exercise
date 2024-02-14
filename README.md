@@ -26,3 +26,7 @@ The output
 - Endpoint: 'albums/45'
 <img width="428" alt="Screenshot 2567-02-14 at 10 24 06" src="https://github.com/supithcha/ITCS424_Lab-Exercise/assets/106173639/9d806bd5-b5bb-4c2c-b866-5c854a61e6f6">
 
+### Lab 6.2 (Date: 14/02/2024)
+- Exercise 2: Post Data on REST APIs
+<img width="428" alt="Screenshot 2567-02-14 at 11 21 55" src="https://github.com/supithcha/ITCS424_Lab-Exercise/assets/106173639/874ed651-c3b8-4bc2-834f-53511c8ed8fd">
+
